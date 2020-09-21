@@ -1,0 +1,20 @@
+.course{
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 15px;
+    margin: 25px;
+    box-shadow: 5px 5px 7px 7px rgb(206, 187, 179);
+    background-color: rgb(153, 238, 217);
+    display: flex;
+}
+.course img{
+    width: 400px;
+
+}
+.Course_name{
+    color: mediumblue;
+}
+.detail{
+    margin-left: 10px;
+    padding-left: 20px;
+}

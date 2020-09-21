@@ -1,0 +1,10 @@
+.slide{
+    display: flex;
+}
+.course_detail{
+    width: 70%;
+    margin-right: 5px;
+    margin-left: 20px;
+    border-right: 2px solid darkgray;
+    border-radius: 5px;
+}
